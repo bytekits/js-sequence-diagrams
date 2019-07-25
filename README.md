@@ -3,7 +3,8 @@ JS Sequence Diagrams [![Bower](https://img.shields.io/bower/v/js-sequence-diagra
 **Generates UML sequence diagrams from simple text**  
 <https://bramp.github.io/js-sequence-diagrams/>
 
-##url:http://flowchart.js.org/
+**url:http://flowchart.js.org/**
+-----
 
 
 by [Andrew Brampton](https://bramp.net) 2012-2017
